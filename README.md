@@ -57,14 +57,14 @@
 ### 📈 SYSTEM METRICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fastian-afk&show_icons=true&theme=tokyonight&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fastian-afk&layout=compact&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fastian-afk&show_icons=true&theme=neon&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fastian-afk&layout=compact&theme=neon" height="180" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fastian-afk&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fastian-afk&theme=neon" width="100%" />
 </div>
 
 ---
@@ -80,9 +80,5 @@
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Fastian-afk/Fastian-afk/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=neon" />
 </p>
