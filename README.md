@@ -21,7 +21,7 @@
 
 </div>
 
-## ✨ About Me - No Cap Edition 
+## ✨ About Me
 
 > 🧠 AI/ML Student who actually gives a damn about **interpretability** and **real-world impact**  
 > 🏥 Obsessed with **medical AI**, **SHAP explainability**, **Grad-CAM visualization**  
@@ -30,7 +30,7 @@
 
 ---
 
-## 🛠️ My Arsenal 🔥
+## 🛠️ My Tech Arsenal 🔥
 
 ### Languages That Hit Different
 <a href="#"><img src="https://img.shields.io/badge/🐍%20PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=667eea" alt="Python"></a>
@@ -126,7 +126,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00D4FF&center=true&width=500&lines=Open+to+collaborations;DM+me+for+opportunities;Check+my+pinned+repos+👇)](https://git.io/typing-svg)
 
-**Made with 💎 by Imaad Fazal | AI/ML Engineer**
+**Made with 💎 by Imaad Fazal | AI/ML Engineer/Researcher**
 
 ![Profile views](https://komarev.com/ghpvc/?username=Fastian-afk&color=00D4FF&style=flat-square&label=PROFILE+VIEWS)
 
