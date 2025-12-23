@@ -1,91 +1,88 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Imaad%20Fazal&fontSize=80&animation=twinkling&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=300&section=header&text=IMAAD%20FAZAL&fontSize=90&animation=fadeIn&fontColor=00f2ff&desc=AI%20%7C%20ML%20%7C%20MEDICAL%20RESEARCHER&descSize=25&descAlignY=70" width="100%" />
+
+<br/>
 
 <h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FFD5&center=true&vCenter=true&width=800&lines=Aspiring+AI+/+ML+Engineer;Interpretable+ML+Specialist;Medical+AI+Researcher;Building+Portfolio-Grade+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&pause=1000&color=FF0055&center=true&vCenter=true&width=800&lines=CORE+AI+ENGINEER;INTERPRETABLE+ML+SPECIALIST;BUILDING+THE+FUTURE+OF+MED-TECH;PORTFOLIO-GRADE+INNOVATIONS" alt="Typing SVG" />
   </a>
 </h1>
 
 <p align="center">
-  <a href="https://imaad-fazal-portfolio-hub.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/imaad-fazal-30a096320/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:imdufazal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://imaad-fazal-portfolio-hub.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white&color=00f2ff" /></a>
+  <a href="https://www.linkedin.com/in/imaad-fazal-30a096320/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:imdufazal@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### ⚡ Quick Summary
+### 🚀 MISSION CONTROL
 <p align="center">
-  <img src="https://img.shields.io/badge/Medical%20AI-Focus-FF69B4?style=for-the-badge&logo=dna&logoColor=white" />
-  <img src="https://img.shields.io/badge/Explainability-Specialty-00CCFF?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pipelines-Expertise-32CD32?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MEDICAL_AI-PURSUIT-FF0055?style=for-the-badge&logo=dna&logoColor=white" />
+  <img src="https://img.shields.io/badge/EXPLAINABILITY-FOCUS-00f2ff?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/ML_PIPELINES-EXPERT-32CD32?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 </div>
 
 ---
 
-### 🧬 The Lab (About Me)
-- 🔭 I’m currently working on **End-to-end ML pipelines**
-- 🛡️ Passionate about **Interpretable ML** — because "Black Box" models aren't enough for healthcare.
-- ⚡ Fun fact: I build projects that are **portfolio-grade**, not tutorial junk.
-- 💬 Ask me about: **ResNet, SHAP, or MIMIC datasets.**
+### 🧬 THE LAB (ABOUT ME)
+* 🔭 **CURRENT STATE:** Architecting end-to-end ML pipelines.
+* 🛡️ **PHILOSOPHY:** If an AI can't explain its decision, it's just a guess. Passionate about **Interpretable ML**.
+* ⚡ **MANTRA:** I build **Portfolio-Grade Engineering**, not tutorial scripts.
+* 💬 **INTEL:** Ask me about **ResNet, SHAP, or MIMIC datasets.**
 
-### 🛠 Tech Stack & Tools
+### 🛠 TECH ARSENAL
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,tensorflow,pytorch,sklearn,git,github,fastapi,linux,mongodb,docker" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,tensorflow,pytorch,sklearn,git,github,fastapi,linux,mongodb,docker,aws,replit" />
 </p>
 
 ---
 
-### 🚀 Featured Research & Projects
+### 📡 PROJECT RECONNAISSANCE
 
-- **🫁 Pneumonia Detection** | `ResNet18` `Grad-CAM`
-  - *Visualizing what the CNN actually sees in Chest X-Rays.*
-- **🩺 Heart Disease Risk** | `XGBoost` `SHAP`
-  - *Interpretable risk prediction using global and local explanations.*
-- **🧬 Sepsis Prediction** | `Clinical Data` `MIMIC-III`
-  - *Predictive modeling on high-stakes clinical time-series data.*
+* **🫁 PNEUMONIA DETECTION** | `ResNet18` `Grad-CAM`
+    * *Visualizing CNN neuron activation in Chest X-Rays.*
+* **🩺 HEART DISEASE RISK** | `XGBoost` `SHAP`
+    * *Global and local model interpretability for clinical trust.*
+* **🧬 SEPSIS PREDICTION** | `MIMIC-III` `Time-Series`
+    * *High-stakes predictive modeling on clinical datasets.*
 
 ---
 
-### 📊 Engineering Metrics
+### 📈 SYSTEM METRICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fastian-afk&show_icons=true&theme=radical&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fastian-afk&layout=compact&theme=radical" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fastian-afk&show_icons=true&theme=blood_dark&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fastian-afk&layout=compact&theme=blood_dark" height="180em" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fastian-afk&theme=radical" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fastian-afk&theme=blood_dark" width="100%" />
 </div>
 
 ---
 
-### 🤝 Connect with Me
+### 🤝 SECURE CONNECTION
 <p align="left">
-  <a href="https://www.linkedin.com/in/imaad-fazal-30a096320/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
   <a href="https://wa.me/03365319960" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://instagram.com/imaadi.exe" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=blood_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-raw-git-io.vercel.app/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
+  <img src="https://github-raw-git-io.vercel.app/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </p>
