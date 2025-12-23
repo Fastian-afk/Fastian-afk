@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Yo%2C+I'm+Imaad+Fazal+🚀;AI%2FML+Engineer+%E2%9A%A1;Healthcare+Tech+Wizard+🏥;Portfolio+Grade+Projects+Only+💎)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Yo%2C+I'm+Imaad+Fazal+🚀;AI%2FML+Engineer+%E2%9A%A1;Healthcare+Tech+Wizard+🏥;Portfolio+Grade+Projects+Only+💎)](https://git.io/typing-svg)
 
 ### 💫 Building Interpretable ML for Real Impact
 
