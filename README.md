@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=300&section=header&text=IMAAD%20FAZAL&fontSize=90&animation=fadeIn&fontColor=00f2ff&desc=AI%20%7C%20ML%20%7C%20MEDICAL%20RESEARCHER&descSize=25&descAlignY=70" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=300&section=header&text=IMAAD%20FAZAL&fontSize=80&animation=fadeIn&fontColor=00f2ff&desc=AI%20%7C%20ML%20%7C%20MEDICAL%20RESEARCHER&descSize=25&descAlignY=70" width="100%" />
 
 <br/>
 
@@ -57,21 +57,21 @@
 ### 📈 SYSTEM METRICS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fastian-afk&show_icons=true&theme=blood_dark&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fastian-afk&layout=compact&theme=blood_dark" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fastian-afk&show_icons=true&theme=tokyonight&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fastian-afk&layout=compact&theme=tokyonight" height="180" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fastian-afk&theme=blood_dark" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fastian-afk&theme=tokyonight" width="100%" />
 </div>
 
 ---
 
 ### 🤝 SECURE CONNECTION
 <p align="left">
-  <a href="https://wa.me/03365319960" target="_blank">
+  <a href="https://wa.me/923365319960" target="_blank">
     <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://instagram.com/imaadi.exe" target="_blank">
@@ -80,9 +80,9 @@
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=blood_dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-raw-git-io.vercel.app/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Fastian-afk/Fastian-afk/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
