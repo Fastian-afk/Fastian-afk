@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2b5876&height=250&section=header&text=Imaad%20Fazal&fontSize=80&animation=fadeIn&fontAlignY=35" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=auto&height=250&section=header&text=Imaad%20Fazal&fontSize=80&animation=twinkling&fontAlignY=35" width="100%" />
 
 <h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Aspiring+AI+/+ML+Engineer;Interpretable+ML+Specialist;Medical+AI+Researcher;Building+Portfolio-Grade+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=35&pause=1000&color=00FFD5&center=true&vCenter=true&width=800&lines=Aspiring+AI+/+ML+Engineer;Interpretable+ML+Specialist;Medical+AI+Researcher;Building+Portfolio-Grade+Solutions" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -16,14 +16,11 @@
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F778BA&center=true&vCenter=true&width=600&lines=🧠+Focus:+Medical+AI;🛠+Expertise:+ML+Pipelines;🎯+Goal:+Interpretable+Models;🛡+Specialty:+SHAP+/+Grad-CAM" alt="Animated Summary" />
-</div>
-
+### ⚡ Quick Summary
 <p align="center">
-  <img src="https://img.shields.io/badge/Medical%20AI-Focus-pink?style=for-the-badge&logo=dna" />
-  <img src="https://img.shields.io/badge/Explainability-Specialty-blue?style=for-the-badge&logo=target" />
-  <img src="https://img.shields.io/badge/Pipelines-Expertise-green?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Medical%20AI-Focus-FF69B4?style=for-the-badge&logo=dna&logoColor=white" />
+  <img src="https://img.shields.io/badge/Explainability-Specialty-00CCFF?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pipelines-Expertise-32CD32?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 </div>
@@ -39,7 +36,7 @@
 ### 🛠 Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,tensorflow,pytorch,sklearn,git,github,fastapi,linux" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,java,tensorflow,pytorch,sklearn,git,github,fastapi,linux,mongodb,docker" />
 </p>
 
 ---
@@ -58,14 +55,14 @@
 ### 📊 Engineering Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fastian-afk&show_icons=true&theme=tokyonight&count_private=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fastian-afk&layout=compact&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fastian-afk&show_icons=true&theme=radical&count_private=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fastian-afk&layout=compact&theme=radical" height="180em" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fastian-afk&theme=tokyonight" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fastian-afk&theme=radical" width="100%" />
 </div>
 
 ---
@@ -86,5 +83,9 @@
 ---
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-raw-git-io.vercel.app/platane/snk/output/github-contribution-grid-snake.svg" width="100%" />
 </p>
