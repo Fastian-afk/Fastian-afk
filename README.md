@@ -64,7 +64,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fastian-afk&theme=neon" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fastian-afk&theme=neon" />
 </div>
 
 ---
