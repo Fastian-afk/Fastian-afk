@@ -16,19 +16,14 @@
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F778BA&center=true&vCenter=true&width=500&lines=🧠+Focus:+Medical+AI;🛠+Expertise:+ML+Pipelines;🎯+Goal:+Interpretable+Models;🛡+Specialty:+SHAP+/+Grad-CAM" alt="Animated Summary" />
-</div>
+### ⚡ Quick Summary
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Medical%20AI-Focus-pink?style=for-the-badge&logo=dna" />
-  <img src="https://img.shields.io/badge/Explainability-Specialty-blue?style=for-the-badge&logo=target" />
-  <img src="https://img.shields.io/badge/Pipelines-Expertise-green?style=for-the-badge&logo=python" />
-</p>
+| 🧠 Focus | 🛠 Expertise | 🎯 Goal |
+| :--- | :--- | :--- |
+| **Medical AI** | Python & ML Pipelines | Interpretable Models |
+| **Explainability** | SHAP / Grad-CAM | Real-world Datasets |
 
 </div>
-
----
 
 ### 🧬 The Lab (About Me)
 - 🔭 I’m currently working on **End-to-end ML pipelines**
