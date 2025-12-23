@@ -4,7 +4,7 @@
 
 <h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+AI+/+ML+Engineer;Interpretable+ML+Specialist;Medical+AI+Researcher;Building+Portfolio-Grade+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Aspiring+AI+/+ML+Engineer;Interpretable+ML+Specialist;Medical+AI+Researcher;Building+Portfolio-Grade+Solutions" alt="Typing SVG" />
   </a>
 </h1>
 
@@ -16,14 +16,19 @@
 
 ---
 
-### ⚡ Quick Summary
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F778BA&center=true&vCenter=true&width=600&lines=🧠+Focus:+Medical+AI;🛠+Expertise:+ML+Pipelines;🎯+Goal:+Interpretable+Models;🛡+Specialty:+SHAP+/+Grad-CAM" alt="Animated Summary" />
+</div>
 
-| 🧠 Focus | 🛠 Expertise | 🎯 Goal |
-| :--- | :--- | :--- |
-| **Medical AI** | Python & ML Pipelines | Interpretable Models |
-| **Explainability** | SHAP / Grad-CAM | Real-world Datasets |
+<p align="center">
+  <img src="https://img.shields.io/badge/Medical%20AI-Focus-pink?style=for-the-badge&logo=dna" />
+  <img src="https://img.shields.io/badge/Explainability-Specialty-blue?style=for-the-badge&logo=target" />
+  <img src="https://img.shields.io/badge/Pipelines-Expertise-green?style=for-the-badge&logo=python" />
+</p>
 
 </div>
+
+---
 
 ### 🧬 The Lab (About Me)
 - 🔭 I’m currently working on **End-to-end ML pipelines**
@@ -62,6 +67,21 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fastian-afk&theme=tokyonight" width="100%" />
 </div>
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/imaad-fazal-30a096320/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://wa.me/03365319960" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://instagram.com/imaadi.exe" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</p>
 
 ---
 
