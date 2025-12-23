@@ -1,84 +1,150 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=300&section=header&text=IMAAD%20FAZAL&fontSize=80&animation=fadeIn&fontColor=00f2ff&desc=AI%20%7C%20ML%20%7C%20MEDICAL%20RESEARCHER&descSize=25&descAlignY=70" width="100%" />
+# 👋 Hey, I'm Imaad Fazal
 
-<br/>
+### 🤖 AI/ML Engineer | Data Scientist | Medical AI Enthusiast
 
-<h1>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=32&pause=1000&color=FF0055&center=true&vCenter=true&width=800&lines=CORE+AI+ENGINEER;INTERPRETABLE+ML+SPECIALIST;BUILDING+THE+FUTURE+OF+MED-TECH;PORTFOLIO-GRADE+INNOVATIONS" alt="Typing SVG" />
-  </a>
-</h1>
-
-<p align="center">
-  <a href="https://imaad-fazal-portfolio-hub.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=white&color=00f2ff" /></a>
-  <a href="https://www.linkedin.com/in/imaad-fazal-30a096320/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:imdufazal@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-blue?style=for-the-badge&logo=world&logoColor=white)](https://imaad-fazal-portfolio-hub.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imaad-fazal-30a096320/)
+[![Email](https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:imdufazal@gmail.com)
 
 ---
 
-### 🚀 MISSION CONTROL
-<p align="center">
-  <img src="https://img.shields.io/badge/MEDICAL_AI-PURSUIT-FF0055?style=for-the-badge&logo=dna&logoColor=white" />
-  <img src="https://img.shields.io/badge/EXPLAINABILITY-FOCUS-00f2ff?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/ML_PIPELINES-EXPERT-32CD32?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+### 🎯 About Me
+
+```
+💡 Passionate about interpretable ML, medical AI, and real-world impact
+🔬 Building portfolio-grade projects, not tutorial junk
+📊 Strong foundation in Python, ML pipelines, and model explainability
+🎓 Student focused on bridging the gap between AI research & healthcare
+```
+
+---
 
 </div>
 
----
-
-### 🧬 THE LAB (ABOUT ME)
-* 🔭 **CURRENT STATE:** Architecting end-to-end ML pipelines.
-* 🛡️ **PHILOSOPHY:** If an AI can't explain its decision, it's just a guess. Passionate about **Interpretable ML**.
-* ⚡ **MANTRA:** I build **Portfolio-Grade Engineering**, not tutorial scripts.
-* 💬 **INTEL:** Ask me about **ResNet, SHAP, or MIMIC datasets.**
-
-### 🛠 TECH ARSENAL
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,java,tensorflow,pytorch,sklearn,git,github,fastapi,linux,mongodb,docker,aws,replit" />
-</p>
-
----
-
-### 📡 PROJECT RECONNAISSANCE
-
-* **🫁 PNEUMONIA DETECTION** | `ResNet18` `Grad-CAM`
-    * *Visualizing CNN neuron activation in Chest X-Rays.*
-* **🩺 HEART DISEASE RISK** | `XGBoost` `SHAP`
-    * *Global and local model interpretability for clinical trust.*
-* **🧬 SEPSIS PREDICTION** | `MIMIC-III` `Time-Series`
-    * *High-stakes predictive modeling on clinical datasets.*
-
----
-
-### 📈 SYSTEM METRICS
+### 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fastian-afk&show_icons=true&theme=neon&count_private=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fastian-afk&layout=compact&theme=neon" height="180" />
-</div>
 
-<br/>
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fastian-afk&theme=neon" />
+#### ML/DL Frameworks
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+#### Tools & Platforms
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
 </div>
 
 ---
 
-### 🤝 SECURE CONNECTION
-<p align="left">
-  <a href="https://wa.me/923365319960" target="_blank">
-    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/imaadi.exe" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</p>
+### 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=neon" />
-</p>
+<table align="center">
+<tr>
+<td width="50%">
+
+#### 🫁 Pneumonia Detection
+**Grad-CAM + ResNet18 for interpretable X-ray analysis**
+
+- Deep learning model for medical imaging
+- Explainable AI insights with Grad-CAM
+- Production-ready pipeline
+
+</td>
+<td width="50%">
+
+#### 🩺 Heart Disease Prediction
+**Interpretable ML with SHAP explainability**
+
+- Risk assessment from patient data
+- Feature importance visualization
+- Clinical decision support
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🧬 Sepsis Prediction
+**Clinical data pipeline from MIMIC dataset**
+
+- Real-world healthcare data processing
+- Time-series analysis
+- Early warning system
+
+</td>
+<td width="50%">
+
+#### 🎵 Smart Music Recommender
+**ML-based recommendation engine**
+
+- Collaborative filtering approach
+- Personalized user experiences
+- Performance optimization
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fastian-afk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fastian-afk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=58a6ff)
+
+</div>
+
+---
+
+### 🧩 Currently Exploring
+
+```
+🔬 Medical AI & Explainability (SHAP, LIME, Grad-CAM)
+📈 End-to-end ML pipelines & production deployment
+☁️ Cloud infrastructure (AWS/GCP) for ML models
+📱 Model optimization & edge deployment
+🤝 Open source contributions in ML community
+```
+
+---
+
+### 📈 Development Velocity
+
+<div align="center">
+
+![Metrics](https://img.shields.io/badge/Projects_Built-15+-blue?style=flat-square)
+![Metrics](https://img.shields.io/badge/Languages-3-brightgreen?style=flat-square)
+![Metrics](https://img.shields.io/badge/Frameworks-8+-orange?style=flat-square)
+![Metrics](https://img.shields.io/badge/Focus-AI%2FML-red?style=flat-square)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🌟 Let's Build Something Amazing Together!
+
+**Open to collaborations, discussions, and new opportunities**
+
+[📬 Get In Touch](mailto:imdufazal@gmail.com) • [🔗 My Work](https://github.com/Fastian-afk?tab=repositories)
+
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=58A6FF&center=true&width=600&lines=Building+AI+for+Healthcare;Interpretability+First;Real+Impact+Over+Metrics" alt="Typing SVG" />
+
+</div>
