@@ -36,9 +36,6 @@
 ### ML/DL Frameworks - The Tech Stack of Gods 🧬
 <img src="https://img.shields.io/badge/🔷%20TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=667eea" alt="TensorFlow"> <img src="https://img.shields.io/badge/🔥%20PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=667eea" alt="PyTorch"> <img src="https://img.shields.io/badge/📊%20SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=667eea" alt="Scikit-Learn">
 
-### Dev Tools I Vibe With 💻
-<img src="https://img.shields.io/badge/📓%20JUPYTER-F37726?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=667eea" alt="Jupyter"> <img src="https://img.shields.io/badge/🌳%20GIT-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=667eea" alt="Git"> <img src="https://img.shields.io/badge/🐙%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=667eea" alt="GitHub"> <img src="https://img.shields.io/badge/💻%20VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=667eea" alt="VS Code">
-
 ---
 
 ## 🚀 Main Character Energy Projects 💀
@@ -60,29 +57,15 @@
 - 📊 Feature importance visualization (SHAP values)
 - 💡 Explainable predictions for doctors
 
-![Project Status](https://img.shields.io/badge/STATUS-COMPLETE-00D4FF?style=flat-square&labelColor=302B63)
-![ML Type](https://img.shields.io/badge/TYPE-Healthcare%20ML-FF00FF?style=flat-square&labelColor=302B63)
-
----
-
-### 🧬 Sepsis Prediction (MIMIC Dataset)
-**Clinical data pipeline from real hospital data | Early warning system**
-- 🏥 Processing time-series healthcare data
-- ⚠️ Early sepsis prediction for ICU patients
-- 📊 Real-world clinical dataset pipeline
-
-![Project Status](https://img.shields.io/badge/STATUS-COMPLETE-00D4FF?style=flat-square&labelColor=302B63)
-![ML Type](https://img.shields.io/badge/TYPE-Time%20Series-FF00FF?style=flat-square&labelColor=302B63)
-
 ---
 
 ## 📊 GitHub Stats & Metrics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Fastian-afk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=00D4FF" alt="GitHub Stats" height="180px" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Fastian-afk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=00D4FF&cache_seconds=1800" alt="GitHub Stats" height="180px" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fastian-afk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=00D4FF" alt="Top Languages" height="180px" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Fastian-afk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=00D4FF&cache_seconds=1800" alt="Top Languages" height="180px" />
 
 </div>
 
@@ -93,19 +76,6 @@
 ![Languages](https://img.shields.io/badge/LANGUAGES-3-00D4FF?style=flat-square&labelColor=302B63)
 ![Frameworks](https://img.shields.io/badge/FRAMEWORKS-8+-667eea?style=flat-square&labelColor=302B63)
 ![Focus](https://img.shields.io/badge/FOCUS-AI%2FML-FF6B9D?style=flat-square&labelColor=302B63)
-
-</div>
-
----
-
-## 🔮 Currently Grinding On 👀
-
-<div align="center">
-
-[![Exploring](https://img.shields.io/badge/🔬%20MEDICAL%20AI-Explainability-00D4FF?style=for-the-badge&labelColor=302B63)](https://github.com/Fastian-afk)
-[![Exploring](https://img.shields.io/badge/📈%20END--TO--END-ML%20Pipelines-FF00FF?style=for-the-badge&labelColor=302B63)](https://github.com/Fastian-afk)
-[![Exploring](https://img.shields.io/badge/☁️%20CLOUD-AWS%2FGCP%20Deployment-667eea?style=for-the-badge&labelColor=302B63)](https://github.com/Fastian-afk)
-[![Exploring](https://img.shields.io/badge/📱%20EDGE-Model%20Optimization-FF6B9D?style=for-the-badge&labelColor=302B63)](https://github.com/Fastian-afk)
 
 </div>
 
