@@ -23,9 +23,7 @@
 
 ## ✨ About Me
 
-> 🧠 AI/ML Student who actually gives a damn about **interpretability** and **real-world impact**  
-> 🏥 Obsessed with **medical AI**, **SHAP explainability**, **Grad-CAM visualization**  
-> 💎 Building **portfolio-grade projects** that slap, not tutorial garbage  
+> 🧠 AI/ML Student who actually cares about **interpretability** and **real-world impact** > 🏥 Obsessed with **medical AI**, **SHAP explainability**, **Grad-CAM visualization** > 💎 Building **portfolio-grade projects** that slap, not tutorial garbage  
 > 🔥 Python wizard • Deep learning era • Data pipeline architect  
 
 ---
@@ -33,20 +31,13 @@
 ## 🛠️ My Tech Arsenal 🔥
 
 ### Languages That Hit Different
-<a href="#"><img src="https://img.shields.io/badge/🐍%20PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=667eea" alt="Python"></a>
-<a href="#"><img src="https://img.shields.io/badge/⚙️%20C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=667eea" alt="C++"></a>
-<a href="#"><img src="https://img.shields.io/badge/☕%20JAVA-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=667eea" alt="Java"></a>
+<img src="https://img.shields.io/badge/🐍%20PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=667eea" alt="Python"> <img src="https://img.shields.io/badge/⚙️%20C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=667eea" alt="C++"> <img src="https://img.shields.io/badge/☕%20JAVA-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=667eea" alt="Java">
 
 ### ML/DL Frameworks - The Tech Stack of Gods 🧬
-<a href="#"><img src="https://img.shields.io/badge/🔷%20TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=667eea" alt="TensorFlow"></a>
-<a href="#"><img src="https://img.shields.io/badge/🔥%20PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=667eea" alt="PyTorch"></a>
-<a href="#"><img src="https://img.shields.io/badge/📊%20SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=667eea" alt="Scikit-Learn"></a>
+<img src="https://img.shields.io/badge/🔷%20TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=667eea" alt="TensorFlow"> <img src="https://img.shields.io/badge/🔥%20PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=667eea" alt="PyTorch"> <img src="https://img.shields.io/badge/📊%20SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=667eea" alt="Scikit-Learn">
 
 ### Dev Tools I Vibe With 💻
-<a href="#"><img src="https://img.shields.io/badge/📓%20JUPYTER-F37726?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=667eea" alt="Jupyter"></a>
-<a href="#"><img src="https://img.shields.io/badge/🌳%20GIT-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=667eea" alt="Git"></a>
-<a href="#"><img src="https://img.shields.io/badge/🐙%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=667eea" alt="GitHub"></a>
-<a href="#"><img src="https://img.shields.io/badge/💻%20VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=667eea" alt="VS Code"></a>
+<img src="https://img.shields.io/badge/📓%20JUPYTER-F37726?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=667eea" alt="Jupyter"> <img src="https://img.shields.io/badge/🌳%20GIT-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=667eea" alt="Git"> <img src="https://img.shields.io/badge/🐙%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=667eea" alt="GitHub"> <img src="https://img.shields.io/badge/💻%20VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=667eea" alt="VS Code">
 
 ---
 
@@ -85,38 +76,38 @@
 
 ---
 
-### 🎵 Smart Music Recommender
-**ML-based recommendation engine | Personalized vibes**
-- 🎯 Collaborative filtering approach
-- 👤 Personalized recommendations that actually slap
-- ⚡ Optimized for performance
-
-![Project Status](https://img.shields.io/badge/STATUS-COMPLETE-00D4FF?style=flat-square&labelColor=302B63)
-![ML Type](https://img.shields.io/badge/TYPE-Recommendation%20System-FF00FF?style=flat-square&labelColor=302B63)
-
----
-
 ## 📊 GitHub Stats & Metrics
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fastian-afk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=00D4FF)](https://github.com/Fastian-afk)
+<div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fastian-afk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=00D4FF)](https://github.com/Fastian-afk)
+<img src="https://github-readme-stats.vercel.app/api?username=Fastian-afk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=00D4FF" alt="GitHub Stats" height="180px" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fastian-afk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=ffffff&title_color=00D4FF" alt="Top Languages" height="180px" />
+
+</div>
 
 ### 💯 Dev Metrics
+<div align="center">
+
 ![Projects Built](https://img.shields.io/badge/PROJECTS%20BUILT-15+-FF00FF?style=flat-square&labelColor=302B63&logo=github)
 ![Languages](https://img.shields.io/badge/LANGUAGES-3-00D4FF?style=flat-square&labelColor=302B63)
 ![Frameworks](https://img.shields.io/badge/FRAMEWORKS-8+-667eea?style=flat-square&labelColor=302B63)
 ![Focus](https://img.shields.io/badge/FOCUS-AI%2FML-FF6B9D?style=flat-square&labelColor=302B63)
 
+</div>
+
 ---
 
 ## 🔮 Currently Grinding On 👀
+
+<div align="center">
 
 [![Exploring](https://img.shields.io/badge/🔬%20MEDICAL%20AI-Explainability-00D4FF?style=for-the-badge&labelColor=302B63)](https://github.com/Fastian-afk)
 [![Exploring](https://img.shields.io/badge/📈%20END--TO--END-ML%20Pipelines-FF00FF?style=for-the-badge&labelColor=302B63)](https://github.com/Fastian-afk)
 [![Exploring](https://img.shields.io/badge/☁️%20CLOUD-AWS%2FGCP%20Deployment-667eea?style=for-the-badge&labelColor=302B63)](https://github.com/Fastian-afk)
 [![Exploring](https://img.shields.io/badge/📱%20EDGE-Model%20Optimization-FF6B9D?style=for-the-badge&labelColor=302B63)](https://github.com/Fastian-afk)
-[![Exploring](https://img.shields.io/badge/🤝%20OPEN%20SOURCE-Community%20Vibes-00D4FF?style=for-the-badge&labelColor=302B63)](https://github.com/Fastian-afk)
+
+</div>
 
 ---
 
